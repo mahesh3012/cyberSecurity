@@ -1,0 +1,7 @@
+.Footer{
+    position :sticky;
+    min-height: 40px;
+    top:100%;
+    background-color:#2b6777 ;
+    text-align: center;
+}
